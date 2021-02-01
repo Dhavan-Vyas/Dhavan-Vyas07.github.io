@@ -2,7 +2,7 @@
 **Iant India**
 ##Course Content
 
-+.1 Basics
+###1 Basics
 
 + Ms office
 + Ms PowerPoint
