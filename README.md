@@ -1,6 +1,6 @@
 # Dhavan-Vyas07.github.io
 **Iant India**
-## Course Content
+##Course Content
 
 +.1 Basics
 
@@ -8,8 +8,8 @@
 + Ms PowerPoint
 + Docs
 + Access
- ![IANT INDIA] (.jpg)
- [Iant Web Page] (www.starcertification.org)
+![IANT INDIA] (.jpg)
+[Iant Web Page] (www.starcertification.org)
 
  
 
